@@ -1,7 +1,3 @@
 # Test 
 
-asdfasdf sd
-
-sdfasdf
-
-asdfasdfsdf
+This is my readme.
